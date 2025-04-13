@@ -16,7 +16,7 @@ A Python application to validate Steam accounts and check for owned games.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/AccountHarvester.git
+   git clone https://github.com/doshibadev/AccountHarvester.git
    cd AccountHarvester
    ```
 
@@ -115,7 +115,7 @@ python app.py --adaptive-rate-limiting true
 
 ### Graphical User Interface (Coming Soon)
 
-The GUI version of the application will feature:
+The GUI version of the application is featuring:
 
 - **Manual Tab**: Single account credential checking with detailed results
 - **Automatic Tab**: Bulk account checking from file with threading support and export functionality
